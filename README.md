@@ -1,0 +1,1 @@
+When a user selects a city (e.g., Erode) and then chooses a specific place (e.g., Chennimalai Murugan Temple), the system navigates to Google Maps, displaying the exact location of the selected place.
